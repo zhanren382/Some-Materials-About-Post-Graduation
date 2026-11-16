@@ -11,6 +11,10 @@ https://haida2026.cn/
 https://github.com/zhanren382/miaomiao-book-list
 
 
+机器学习部分更新完成
+
+毕业事宜更新完成
+
 目前杂项收录的资源
 
 付费vpn梯子 盗版游戏网站 盗版软件网站 在线音频处理
