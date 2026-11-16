@@ -11,9 +11,11 @@ https://haida2026.cn/
 https://github.com/zhanren382/miaomiao-book-list
 
 
-机器学习部分更新完成
+机器学习部分完成
 
-毕业事宜更新完成
+毕业事宜完成
+
+考公部分完成
 
 目前杂项收录的资源
 
