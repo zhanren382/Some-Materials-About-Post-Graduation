@@ -4,7 +4,8 @@
 糖糖编写的中国海洋大学新手手册
 https://haida2026.cn/
 
-
+顺便放一些我的书单（建设中）
+https://github.com/zhanren382/miaomiao-book-list
 
 
 目前杂项收录的资源
