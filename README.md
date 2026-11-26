@@ -17,7 +17,7 @@ https://github.com/zhanren382/miaomiao-book-list
 
 机器学习部分完成
 
-毕业事宜完成
+学术部分完成
 
 考公部分完成
 
