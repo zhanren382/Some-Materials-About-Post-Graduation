@@ -1,4 +1,5 @@
-#毕业后及大三大四可能会用到的资料
+markdown
+# 毕业后及大三大四可能会用到的资料
 
 本资料可以视为对新生手册的补充
 
@@ -12,6 +13,7 @@ https://haida2026.cn/
 顺便放一些我的书单（建设中）
 https://github.com/zhanren382/miaomiao-book-list
 
+## 更新历史
 
 机器学习部分完成
 
